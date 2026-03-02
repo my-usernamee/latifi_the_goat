@@ -1,9 +1,9 @@
 # F1Tenth Hackathon - Team latifi_the_goat 🐐
 
 ## Team Members
-* Sarvajana Hari (CE/Y1) - @im_hariii
-* ABHIRAM (CE/Y1)
-* ARAVIND SIVAKUMAR (IEM/Y1)
+* SARVAJANA HARI
+* ABHIRAM 
+* ARAVIND SIVAKUMAR 
 
 ## 📂 Where to find our code
 We uploaded our entire ROS2 package so it can be built easily. 
