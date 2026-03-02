@@ -1,4 +1,4 @@
-# F1Tenth Hackathon - Team latifi_the_goat 🐐
+# F1Tenth Hackathon - Team latifi_the_goat 
 
 ## Team Members
 * SARVAJANA HARI
